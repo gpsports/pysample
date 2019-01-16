@@ -29,7 +29,7 @@ def do_something():
     ''' This is a function that prints Hello World to the console
     '''
 #    statuses = api.user_timeline(screen_name='timbull')
-    print(statuses)
+#    print(statuses)
     print("Hello world!")
 
 if __name__ == '__main__':

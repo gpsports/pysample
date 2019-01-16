@@ -23,7 +23,7 @@ $ brew install Python
 
 ```
 $ virtualenv env -p python3
-$ source ./bin/env/activate
+$ source ./env/bin/activate
 ```
 
 Use pip to install the required python modules (tweepy)
